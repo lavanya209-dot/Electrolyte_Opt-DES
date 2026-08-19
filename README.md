@@ -1,4 +1,4 @@
-# DES Electrolyte Discovery — Reproducible Analysis
+# DES Electrolyte Discovery
 
 Physics-guided machine learning for predicting electrical conductivity, viscosity, and density of Deep Eutectic Solvents (DES), with XGBoost surrogate models and NSGA-II multi-objective optimisation for electrolyte discovery.
 
